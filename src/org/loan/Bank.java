@@ -7,5 +7,9 @@ public abstract class Bank {
 public void sbi() {
 	// TODO Auto-generated method stub
 System.out.println("sbi bank");
+int a;
+int b;
+
+int c;
 }	
 }
